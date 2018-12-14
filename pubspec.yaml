@@ -1,0 +1,8 @@
+name: prompter_rhokstar
+version: 0.0.2
+description: Library to create CLI wizards
+author: Jonathan Agoot <jon.agoot@gmail.com>
+homepage: http://github.com/rhokstar
+
+environment:
+  sdk: '<3.0.0'
