@@ -1,8 +1,12 @@
-name: prompter_rhokstar
-version: 0.0.2
-description: Library to create CLI wizards
+name: image_converter_rhokstar
+version: 0.0.1
+description: CLI based image converter
 author: Jonathan Agoot <jon.agoot@gmail.com>
 homepage: http://github.com/rhokstar
+
+dependencies:
+  prompter_rhokstar: 0.0.2
+  image: 2.0.5
 
 environment:
   sdk: '<3.0.0'
